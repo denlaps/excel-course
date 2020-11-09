@@ -18,6 +18,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Shell Script" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -29,7 +30,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604928023259</updated>
-      <workItem from="1604928024353" duration="454000" />
+      <workItem from="1604928024353" duration="615000" />
     </task>
     <servers />
   </component>
